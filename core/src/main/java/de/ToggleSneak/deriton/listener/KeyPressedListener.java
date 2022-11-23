@@ -18,8 +18,6 @@ public class KeyPressedListener {
 
   @Subscribe
   public void onPress(KeyEvent event) {
-    Key.key(Shift)
-    if(event.key() == )
     if(addon.configuration().getKey (event.key()) ) { //  == Key.LSHIFT || event.key() == Key.RSHIFT) && addon.configuration().tsn_enabled().get() && event.state() == State.PRESS
       this.addon.logger().info("Sneak got pressed");
     }
