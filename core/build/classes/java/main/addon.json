@@ -1,0 +1,19 @@
+{
+  "namespace": "togglesneak",
+  "displayName": "ToggleSneak",
+  "description": "ToggleSneak allows you to Toggle sneak and sprint. When its activated, you can press the specified Key to toggle it!",
+  "version": "0.0.0",
+  "author": "Deriton",
+  "os": [],
+  "compatibleMinecraftVersions": "*",
+  "meta": [],
+  "mavenDependencies": [],
+  "addonDependencies": [],
+  "mainClasses": [
+    "de.ToggleSneak.deriton.ToggleSneak"
+  ],
+  "incompatibles": [],
+  "entrypoints": {},
+  "earlyTransformers": [],
+  "transformers": []
+}

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="addonAuthor" value="Deriton" />
+        <option name="addonDescription" value="ToggleSneak allows you to Toggle sneak and sprint. When its activated, you can press the specified Key to toggle it!" />
+        <option name="addonDisplayName" value="ToggleSneak" />
+        <option name="addonEnvironment" value="true" />
+        <option name="addonNamespace" value="togglesneak" />
+        <option name="addonVersion" value="0.0.0" />
+        <option name="applicationId" value="f731dbbd-bfc0-4252-9cca-e3385f8873d5" />
+        <option name="autoWidgetLssPath" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\build\tmp\lg-neo\ap\auto-widget-lss.json" />
+        <option name="javaVersion" value="52.0" />
+        <option name="projectId" value="togglesneak" />
+        <option name="projectName" value="api" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/processor/0.1.0-internal-05b7ddf0/1e36487383653e4b53b8d3fe0ff1cbd357873588/processor-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.1/9141212b8507ab50a45525b545b39d224614528b/log4j-core-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-volt/0.1.0-internal-05b7ddf0/e7e775ce8ad98bb2e3fd2049ad74cd2e41232e5b/util-volt-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod/sponge-mixin/0.1.0+0.11.2+mixin.0.8.5/63d99e1e0f1f5bcd93b0e36a4db4ca95d5e91f38/sponge-mixin-0.1.0+0.11.2+mixin.0.8.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-models/0.1.0-internal-05b7ddf0/a7903dd240dc69d4239b4ce47214042ab614d9d4/util-models-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc6/4586e4191111b24135ffac93d3e1a91e91bf71d3/auto-service-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.13.0/d6562d385049f35eb50403fa86bb11cce76b866a/javapoet-1.13.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/22.0.0/fb9bebc90794c7602e73d6ed0cb165a0c650be62/annotations-22.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-asm/unspecified-internal-05b7ddf0/c0c91dbab4edbfb2d635241db0a2a6bd7b15cd23/util-asm-unspecified-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-mappings/0.1.0-internal-05b7ddf0/df0e3680aacd1b14f7f97dfbd1341da74b7981ae/util-mappings-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.1/cd8858fbbde69f46bce8db1152c18a43328aae78/log4j-api-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.10/c8f153ebe04a17183480ab4016098055fb474364/auto-common-0.10.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.0.1-jre/bd41a290787b5301e63929676d792c507bbc00ae/guava-27.0.1-jre.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0-rc6/32c6a6313217c949396376d9caddb6b8c8f4e7c3/auto-service-annotations-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.3/1f2a432d1212f5c352ae607d7b61dcae20c20af5/asm-commons-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.3/9595bc05510d0bd4b610188b77333fe4851a1975/asm-util-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.3/4b071f211b37c38e0e9f5998550197c8593f6ad8/asm-analysis-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.3/78d2ecd61318b5a58cd04fb237636c0e86b77d97/asm-tree-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.5.2/cea74543d5904a30861a61b4643a5f2bb372efc4/checker-qual-2.5.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/88e3c593e9b3586e1c6177f89267da6fc6986f0c/error_prone_annotations-2.2.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
+        </processorPath>
+        <module name="labymod4-addon-template.api.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="addonAuthor" value="Deriton" />
+        <option name="addonDescription" value="ToggleSneak allows you to Toggle sneak and sprint. When its activated, you can press the specified Key to toggle it!" />
+        <option name="addonDisplayName" value="ToggleSneak" />
+        <option name="addonEnvironment" value="true" />
+        <option name="addonNamespace" value="togglesneak" />
+        <option name="addonVersion" value="0.0.0" />
+        <option name="applicationId" value="f731dbbd-bfc0-4252-9cca-e3385f8873d5" />
+        <option name="autoWidgetLssPath" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\build\tmp\lg-neo\ap\auto-widget-lss.json" />
+        <option name="javaVersion" value="52.0" />
+        <option name="projectId" value="togglesneak" />
+        <option name="projectName" value="core" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/processor/0.1.0-internal-05b7ddf0/1e36487383653e4b53b8d3fe0ff1cbd357873588/processor-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.1/9141212b8507ab50a45525b545b39d224614528b/log4j-core-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-volt/0.1.0-internal-05b7ddf0/e7e775ce8ad98bb2e3fd2049ad74cd2e41232e5b/util-volt-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod/sponge-mixin/0.1.0+0.11.2+mixin.0.8.5/63d99e1e0f1f5bcd93b0e36a4db4ca95d5e91f38/sponge-mixin-0.1.0+0.11.2+mixin.0.8.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-models/0.1.0-internal-05b7ddf0/a7903dd240dc69d4239b4ce47214042ab614d9d4/util-models-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc6/4586e4191111b24135ffac93d3e1a91e91bf71d3/auto-service-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.13.0/d6562d385049f35eb50403fa86bb11cce76b866a/javapoet-1.13.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/22.0.0/fb9bebc90794c7602e73d6ed0cb165a0c650be62/annotations-22.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-asm/unspecified-internal-05b7ddf0/c0c91dbab4edbfb2d635241db0a2a6bd7b15cd23/util-asm-unspecified-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-mappings/0.1.0-internal-05b7ddf0/df0e3680aacd1b14f7f97dfbd1341da74b7981ae/util-mappings-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.1/cd8858fbbde69f46bce8db1152c18a43328aae78/log4j-api-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.10/c8f153ebe04a17183480ab4016098055fb474364/auto-common-0.10.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.0.1-jre/bd41a290787b5301e63929676d792c507bbc00ae/guava-27.0.1-jre.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0-rc6/32c6a6313217c949396376d9caddb6b8c8f4e7c3/auto-service-annotations-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.3/1f2a432d1212f5c352ae607d7b61dcae20c20af5/asm-commons-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.3/9595bc05510d0bd4b610188b77333fe4851a1975/asm-util-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.3/4b071f211b37c38e0e9f5998550197c8593f6ad8/asm-analysis-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.3/78d2ecd61318b5a58cd04fb237636c0e86b77d97/asm-tree-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.5.2/cea74543d5904a30861a61b4643a5f2bb372efc4/checker-qual-2.5.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/88e3c593e9b3586e1c6177f89267da6fc6986f0c/error_prone_annotations-2.2.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
+        </processorPath>
+        <module name="labymod4-addon-template.core.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="addonAuthor" value="Deriton" />
+        <option name="addonDescription" value="ToggleSneak allows you to Toggle sneak and sprint. When its activated, you can press the specified Key to toggle it!" />
+        <option name="addonDisplayName" value="ToggleSneak" />
+        <option name="addonEnvironment" value="true" />
+        <option name="addonNamespace" value="togglesneak" />
+        <option name="addonVersion" value="0.0.0" />
+        <option name="applicationId" value="f731dbbd-bfc0-4252-9cca-e3385f8873d5" />
+        <option name="autoWidgetLssPath" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\build\tmp\lg-neo\ap\auto-widget-lss.json" />
+        <option name="compatibilityLevel" value="JAVA_16" />
+        <option name="defaultObfuscationEnv" value="searge" />
+        <option name="javaVersion" value="60.0" />
+        <option name="mappingTypes" value="tsrg" />
+        <option name="minVersion" value="0.8.2" />
+        <option name="outNotchSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_17\build\tmp\compileJava\compileJava-notch-extra.srg" />
+        <option name="outRefMapFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_17\build\tmp\compileJava\compileJava-refmap.json" />
+        <option name="outSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_17\build\tmp\compileJava\compileJava-extra.srg" />
+        <option name="outTsrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_17\build\tmp\compileJava\compileJava-extra.tsrg" />
+        <option name="packageNames" value="org.example.addon.v1_17.mixins" />
+        <option name="projectId" value="togglesneak" />
+        <option name="projectName" value="v1_17" />
+        <option name="reobfNotchSrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.17.1\client-1.17.1-readable-to-obfuscate.srg" />
+        <option name="reobfTsrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.17.1\client-1.17.1-readable-to-obfuscate.tsrg" />
+        <option name="runningVersion" value="1.17.1" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/processor/0.1.0-internal-05b7ddf0/1e36487383653e4b53b8d3fe0ff1cbd357873588/processor-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-volt/0.1.0-internal-05b7ddf0/e7e775ce8ad98bb2e3fd2049ad74cd2e41232e5b/util-volt-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod/sponge-mixin/0.1.0+0.11.2+mixin.0.8.5/63d99e1e0f1f5bcd93b0e36a4db4ca95d5e91f38/sponge-mixin-0.1.0+0.11.2+mixin.0.8.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc6/4586e4191111b24135ffac93d3e1a91e91bf71d3/auto-service-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.10/c8f153ebe04a17183480ab4016098055fb474364/auto-common-0.10.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.0.1-jre/bd41a290787b5301e63929676d792c507bbc00ae/guava-27.0.1-jre.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-asm/unspecified-internal-05b7ddf0/c0c91dbab4edbfb2d635241db0a2a6bd7b15cd23/util-asm-unspecified-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.3/1f2a432d1212f5c352ae607d7b61dcae20c20af5/asm-commons-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.3/9595bc05510d0bd4b610188b77333fe4851a1975/asm-util-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.3/4b071f211b37c38e0e9f5998550197c8593f6ad8/asm-analysis-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.3/78d2ecd61318b5a58cd04fb237636c0e86b77d97/asm-tree-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.1/9141212b8507ab50a45525b545b39d224614528b/log4j-core-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-models/0.1.0-internal-05b7ddf0/a7903dd240dc69d4239b4ce47214042ab614d9d4/util-models-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.13.0/d6562d385049f35eb50403fa86bb11cce76b866a/javapoet-1.13.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/22.0.0/fb9bebc90794c7602e73d6ed0cb165a0c650be62/annotations-22.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-mappings/0.1.0-internal-05b7ddf0/df0e3680aacd1b14f7f97dfbd1341da74b7981ae/util-mappings-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.1/cd8858fbbde69f46bce8db1152c18a43328aae78/log4j-api-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0-rc6/32c6a6313217c949396376d9caddb6b8c8f4e7c3/auto-service-annotations-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.5.2/cea74543d5904a30861a61b4643a5f2bb372efc4/checker-qual-2.5.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/88e3c593e9b3586e1c6177f89267da6fc6986f0c/error_prone_annotations-2.2.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
+        </processorPath>
+        <module name="labymod4-addon-template.versions.v1_17.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="addonAuthor" value="Deriton" />
+        <option name="addonDescription" value="ToggleSneak allows you to Toggle sneak and sprint. When its activated, you can press the specified Key to toggle it!" />
+        <option name="addonDisplayName" value="ToggleSneak" />
+        <option name="addonEnvironment" value="true" />
+        <option name="addonNamespace" value="togglesneak" />
+        <option name="addonVersion" value="0.0.0" />
+        <option name="applicationId" value="f731dbbd-bfc0-4252-9cca-e3385f8873d5" />
+        <option name="autoWidgetLssPath" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\build\tmp\lg-neo\ap\auto-widget-lss.json" />
+        <option name="compatibilityLevel" value="JAVA_17" />
+        <option name="defaultObfuscationEnv" value="searge" />
+        <option name="javaVersion" value="61.0" />
+        <option name="mappingTypes" value="tsrg" />
+        <option name="minVersion" value="0.8.2" />
+        <option name="outNotchSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_18\build\tmp\compileJava\compileJava-notch-extra.srg" />
+        <option name="outRefMapFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_18\build\tmp\compileJava\compileJava-refmap.json" />
+        <option name="outSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_18\build\tmp\compileJava\compileJava-extra.srg" />
+        <option name="outTsrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_18\build\tmp\compileJava\compileJava-extra.tsrg" />
+        <option name="packageNames" value="org.example.addon.v1_18.mixins" />
+        <option name="projectId" value="togglesneak" />
+        <option name="projectName" value="v1_18" />
+        <option name="reobfNotchSrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.18.2\client-1.18.2-readable-to-obfuscate.srg" />
+        <option name="reobfTsrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.18.2\client-1.18.2-readable-to-obfuscate.tsrg" />
+        <option name="runningVersion" value="1.18.2" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/processor/0.1.0-internal-05b7ddf0/1e36487383653e4b53b8d3fe0ff1cbd357873588/processor-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-volt/0.1.0-internal-05b7ddf0/e7e775ce8ad98bb2e3fd2049ad74cd2e41232e5b/util-volt-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod/sponge-mixin/0.1.0+0.11.2+mixin.0.8.5/63d99e1e0f1f5bcd93b0e36a4db4ca95d5e91f38/sponge-mixin-0.1.0+0.11.2+mixin.0.8.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc6/4586e4191111b24135ffac93d3e1a91e91bf71d3/auto-service-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.10/c8f153ebe04a17183480ab4016098055fb474364/auto-common-0.10.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.0.1-jre/bd41a290787b5301e63929676d792c507bbc00ae/guava-27.0.1-jre.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-asm/unspecified-internal-05b7ddf0/c0c91dbab4edbfb2d635241db0a2a6bd7b15cd23/util-asm-unspecified-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.3/1f2a432d1212f5c352ae607d7b61dcae20c20af5/asm-commons-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.3/9595bc05510d0bd4b610188b77333fe4851a1975/asm-util-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.3/4b071f211b37c38e0e9f5998550197c8593f6ad8/asm-analysis-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.3/78d2ecd61318b5a58cd04fb237636c0e86b77d97/asm-tree-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.1/9141212b8507ab50a45525b545b39d224614528b/log4j-core-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-models/0.1.0-internal-05b7ddf0/a7903dd240dc69d4239b4ce47214042ab614d9d4/util-models-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.13.0/d6562d385049f35eb50403fa86bb11cce76b866a/javapoet-1.13.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/22.0.0/fb9bebc90794c7602e73d6ed0cb165a0c650be62/annotations-22.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-mappings/0.1.0-internal-05b7ddf0/df0e3680aacd1b14f7f97dfbd1341da74b7981ae/util-mappings-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.1/cd8858fbbde69f46bce8db1152c18a43328aae78/log4j-api-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0-rc6/32c6a6313217c949396376d9caddb6b8c8f4e7c3/auto-service-annotations-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.5.2/cea74543d5904a30861a61b4643a5f2bb372efc4/checker-qual-2.5.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/88e3c593e9b3586e1c6177f89267da6fc6986f0c/error_prone_annotations-2.2.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
+        </processorPath>
+        <module name="labymod4-addon-template.versions.v1_18.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="addonAuthor" value="Deriton" />
+        <option name="addonDescription" value="ToggleSneak allows you to Toggle sneak and sprint. When its activated, you can press the specified Key to toggle it!" />
+        <option name="addonDisplayName" value="ToggleSneak" />
+        <option name="addonEnvironment" value="true" />
+        <option name="addonNamespace" value="togglesneak" />
+        <option name="addonVersion" value="0.0.0" />
+        <option name="applicationId" value="f731dbbd-bfc0-4252-9cca-e3385f8873d5" />
+        <option name="autoWidgetLssPath" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\build\tmp\lg-neo\ap\auto-widget-lss.json" />
+        <option name="compatibilityLevel" value="JAVA_17" />
+        <option name="defaultObfuscationEnv" value="searge" />
+        <option name="javaVersion" value="61.0" />
+        <option name="mappingTypes" value="tsrg" />
+        <option name="minVersion" value="0.8.2" />
+        <option name="outNotchSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_19\build\tmp\compileJava\compileJava-notch-extra.srg" />
+        <option name="outRefMapFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_19\build\tmp\compileJava\compileJava-refmap.json" />
+        <option name="outSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_19\build\tmp\compileJava\compileJava-extra.srg" />
+        <option name="outTsrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_19\build\tmp\compileJava\compileJava-extra.tsrg" />
+        <option name="packageNames" value="org.example.addon.v1_19.mixins" />
+        <option name="projectId" value="togglesneak" />
+        <option name="projectName" value="v1_19" />
+        <option name="reobfNotchSrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.19.2\client-1.19.2-readable-to-obfuscate.srg" />
+        <option name="reobfTsrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.19.2\client-1.19.2-readable-to-obfuscate.tsrg" />
+        <option name="runningVersion" value="1.19.2" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/processor/0.1.0-internal-05b7ddf0/1e36487383653e4b53b8d3fe0ff1cbd357873588/processor-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-volt/0.1.0-internal-05b7ddf0/e7e775ce8ad98bb2e3fd2049ad74cd2e41232e5b/util-volt-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod/sponge-mixin/0.1.0+0.11.2+mixin.0.8.5/63d99e1e0f1f5bcd93b0e36a4db4ca95d5e91f38/sponge-mixin-0.1.0+0.11.2+mixin.0.8.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc6/4586e4191111b24135ffac93d3e1a91e91bf71d3/auto-service-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.10/c8f153ebe04a17183480ab4016098055fb474364/auto-common-0.10.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.0.1-jre/bd41a290787b5301e63929676d792c507bbc00ae/guava-27.0.1-jre.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-asm/unspecified-internal-05b7ddf0/c0c91dbab4edbfb2d635241db0a2a6bd7b15cd23/util-asm-unspecified-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.3/1f2a432d1212f5c352ae607d7b61dcae20c20af5/asm-commons-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.3/9595bc05510d0bd4b610188b77333fe4851a1975/asm-util-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.3/4b071f211b37c38e0e9f5998550197c8593f6ad8/asm-analysis-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.3/78d2ecd61318b5a58cd04fb237636c0e86b77d97/asm-tree-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.1/9141212b8507ab50a45525b545b39d224614528b/log4j-core-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-models/0.1.0-internal-05b7ddf0/a7903dd240dc69d4239b4ce47214042ab614d9d4/util-models-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.13.0/d6562d385049f35eb50403fa86bb11cce76b866a/javapoet-1.13.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/22.0.0/fb9bebc90794c7602e73d6ed0cb165a0c650be62/annotations-22.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-mappings/0.1.0-internal-05b7ddf0/df0e3680aacd1b14f7f97dfbd1341da74b7981ae/util-mappings-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.1/cd8858fbbde69f46bce8db1152c18a43328aae78/log4j-api-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0-rc6/32c6a6313217c949396376d9caddb6b8c8f4e7c3/auto-service-annotations-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.5.2/cea74543d5904a30861a61b4643a5f2bb372efc4/checker-qual-2.5.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/88e3c593e9b3586e1c6177f89267da6fc6986f0c/error_prone_annotations-2.2.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
+        </processorPath>
+        <module name="labymod4-addon-template.versions.v1_19.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="addonAuthor" value="Deriton" />
+        <option name="addonDescription" value="ToggleSneak allows you to Toggle sneak and sprint. When its activated, you can press the specified Key to toggle it!" />
+        <option name="addonDisplayName" value="ToggleSneak" />
+        <option name="addonEnvironment" value="true" />
+        <option name="addonNamespace" value="togglesneak" />
+        <option name="addonVersion" value="0.0.0" />
+        <option name="applicationId" value="f731dbbd-bfc0-4252-9cca-e3385f8873d5" />
+        <option name="autoWidgetLssPath" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\build\tmp\lg-neo\ap\auto-widget-lss.json" />
+        <option name="compatibilityLevel" value="JAVA_8" />
+        <option name="defaultObfuscationEnv" value="searge" />
+        <option name="javaVersion" value="52.0" />
+        <option name="mappingTypes" value="tsrg" />
+        <option name="minVersion" value="0.6.6" />
+        <option name="outNotchSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_8\build\tmp\compileJava\compileJava-notch-extra.srg" />
+        <option name="outRefMapFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_8\build\tmp\compileJava\compileJava-refmap.json" />
+        <option name="outSrgFile" value="C:\Users\super\Documents\Labymod 4 Addons\ToggleSneak\versions\v1_8\build\tmp\compileJava\compileJava-extra.srg" />
+        <option name="packageNames" value="org.example.addon.v1_8.mixins" />
+        <option name="projectId" value="togglesneak" />
+        <option name="projectName" value="v1_8" />
+        <option name="reobfNotchSrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.8.9\client-1.8.9-readable-to-obfuscate.srg" />
+        <option name="reobfTsrgFile" value="C:\Users\super\.gradle\caches\labymod-gradle\repository\net\minecraft\client\1.8.9\client-1.8.9-readable-to-obfuscate.tsrg" />
+        <option name="runningVersion" value="1.8.9" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/processor/0.1.0-internal-05b7ddf0/1e36487383653e4b53b8d3fe0ff1cbd357873588/processor-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-volt/0.1.0-internal-05b7ddf0/e7e775ce8ad98bb2e3fd2049ad74cd2e41232e5b/util-volt-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod/sponge-mixin/0.1.0+0.11.2+mixin.0.8.5/63d99e1e0f1f5bcd93b0e36a4db4ca95d5e91f38/sponge-mixin-0.1.0+0.11.2+mixin.0.8.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0-rc6/4586e4191111b24135ffac93d3e1a91e91bf71d3/auto-service-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/0.10/c8f153ebe04a17183480ab4016098055fb474364/auto-common-0.10.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/27.0.1-jre/bd41a290787b5301e63929676d792c507bbc00ae/guava-27.0.1-jre.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-asm/unspecified-internal-05b7ddf0/c0c91dbab4edbfb2d635241db0a2a6bd7b15cd23/util-asm-unspecified-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.3/1f2a432d1212f5c352ae607d7b61dcae20c20af5/asm-commons-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.3/9595bc05510d0bd4b610188b77333fe4851a1975/asm-util-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.3/4b071f211b37c38e0e9f5998550197c8593f6ad8/asm-analysis-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.3/78d2ecd61318b5a58cd04fb237636c0e86b77d97/asm-tree-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.14.1/9141212b8507ab50a45525b545b39d224614528b/log4j-core-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-models/0.1.0-internal-05b7ddf0/a7903dd240dc69d4239b4ce47214042ab614d9d4/util-models-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.13.0/d6562d385049f35eb50403fa86bb11cce76b866a/javapoet-1.13.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/22.0.0/fb9bebc90794c7602e73d6ed0cb165a0c650be62/annotations-22.0.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.labymod.labymod4/util-mappings/0.1.0-internal-05b7ddf0/df0e3680aacd1b14f7f97dfbd1341da74b7981ae/util-mappings-0.1.0-internal-05b7ddf0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.14.1/cd8858fbbde69f46bce8db1152c18a43328aae78/log4j-api-2.14.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0-rc6/32c6a6313217c949396376d9caddb6b8c8f4e7c3/auto-service-annotations-1.0-rc6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.5.2/cea74543d5904a30861a61b4643a5f2bb372efc4/checker-qual-2.5.2.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.2.0/88e3c593e9b3586e1c6177f89267da6fc6986f0c/error_prone_annotations-2.2.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
+        </processorPath>
+        <module name="labymod4-addon-template.versions.v1_8.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>

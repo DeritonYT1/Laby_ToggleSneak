@@ -1,0 +1,27 @@
+{
+  "ToggleSneak": {
+    "settings": {
+      "name": "ToggleSneak",
+      "TSN_enabled": {
+        "name": "ToggleSneak"
+      },
+      "TSP_enabled": {
+        "name": "ToggleSprint"
+      },
+      "FB_enabled": {
+        "name": "FlyBoost"
+      },
+      "tsn_use_shift": {
+        "name": "Shift benutzen"
+      },
+      "tsn_use_ownkey": {
+        "name": "Eigener Key wenn 'Shift benutzen' deaktiviert"
+      },
+      "header": {
+        "Deriton": {
+          "name": "MyName"
+        }
+      }
+    }
+  }
+}

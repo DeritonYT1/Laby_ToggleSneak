@@ -1,0 +1,33 @@
+{
+  "togglesneak": {
+    "settings": {
+      "name": "ToggleSneak",
+      "tsn_enabled": {
+        "name": "ToggleSneak"
+      },
+      "tsp_enabled": {
+        "name": "ToggleSprint"
+      },
+      "fb_enabled": {
+        "name": "FlyBoost"
+      },
+      "fb_value": {
+        "name": "FlyBoost Strength"
+      },
+      "tsn_use_shift": {
+        "name": "Use Shift"
+      },
+      "tsn_use_ownkey": {
+        "name": "Own Key when 'Use Shift' deactivated"
+      },
+      "header": {
+        "toggles": {
+          "name": "Use"
+        },
+        "values": {
+          "name": "Values"
+        }
+      }
+    }
+  }
+}

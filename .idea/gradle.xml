@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="corretto-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/api" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/versions" />
+            <option value="$PROJECT_DIR$/versions/v1_17" />
+            <option value="$PROJECT_DIR$/versions/v1_18" />
+            <option value="$PROJECT_DIR$/versions/v1_19" />
+            <option value="$PROJECT_DIR$/versions/v1_8" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
