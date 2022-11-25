@@ -45,7 +45,6 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
         </processorPath>
-        <module name="labymod4-addon-template.api.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -90,7 +89,6 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
         </processorPath>
-        <module name="labymod4-addon-template.core.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -147,7 +145,6 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
         </processorPath>
-        <module name="labymod4-addon-template.versions.v1_17.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -204,7 +201,6 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
         </processorPath>
-        <module name="labymod4-addon-template.versions.v1_18.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -261,7 +257,6 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
         </processorPath>
-        <module name="labymod4-addon-template.versions.v1_19.main" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -317,7 +312,6 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.17/f97ce6decaea32b36101e37979f8b647f00681fb/animal-sniffer-annotations-1.17.jar" />
         </processorPath>
-        <module name="labymod4-addon-template.versions.v1_8.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
